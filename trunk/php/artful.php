@@ -23,7 +23,6 @@
 <script type="text/javascript">
     function bindShortcodeButton() {
         jQuery('.get-content').on('click',function(){
-                console.log('hi')
 
             if(jQuery(this).hasClass('event')){
                 var value = jQuery('#get-event-id').val();

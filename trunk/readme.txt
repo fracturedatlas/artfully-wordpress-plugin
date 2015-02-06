@@ -4,7 +4,7 @@ Contributors: fracturedatlas, jakilevy, markoof, rzvagelsky
 Tags: artful.ly api, widget, ticket, ticket sales, Artful.ly, Artfully, ticketing, donations, donation, arts
 Requires at least: 3.3.1
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
