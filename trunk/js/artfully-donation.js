@@ -1,7 +1,7 @@
 jQuery(document).ready(function(){
     artfully.configure({
-        base_uri: 'https://www.artful.ly/api/v3/',
-        store_uri: 'https://www.artful.ly/widget/v3/'
+        base_uri: 'https://artfully-staging-pr-817.herokuapp.com/api/v3/',
+        store_uri: 'https://artfully-staging-pr-817.herokuapp.com/widget/v3/'
     });
 	artfully.widgets.cart()
   artfully.widgets.donation().display(artfully_donation.donationId);
